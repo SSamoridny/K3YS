@@ -14,4 +14,4 @@ In this project, I worked with K3YS marketing manager to build their micro site.
 - Work arounds for outside font usage and logo creation based off what the client had asked for
 - How to deal with image heavy items where the client asked for larger, uncompressed images and we compromised with smaller images as load times were rather slow
 
-### All artwork is property of the K3YS project and its buyers
+### All artwork is property of the [K3YS](https://opensea.io/assets/k3ys) project and its buyers
